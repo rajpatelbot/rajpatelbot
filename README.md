@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently improving my skills on **React.js, Node.js, Express.js, MongoDB**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 - 📫 How to reach me **rajpatel158g@gmail.com**
+
+- ⚡ Fun fact: I love drawing and music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
