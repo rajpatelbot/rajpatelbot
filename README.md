@@ -1,4 +1,4 @@
-<h1 align="center">Hi https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif, I'm Raj Patel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raj Patel</h1>
 <h3 align="center">A passionate full stack developer from India. Always try to learn new things.</h3>
 
 - 🌱 I’m currently improving my skills on **React.js, Node.js, Express.js, MongoDB**
