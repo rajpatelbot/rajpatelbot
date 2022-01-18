@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Raj Patel</h1>
+<h1 align="center">Hi https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif, I'm Raj Patel</h1>
 <h3 align="center">A passionate full stack developer from India. Always try to learn new things.</h3>
 
 - 🌱 I’m currently improving my skills on **React.js, Node.js, Express.js, MongoDB**
 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👨‍💻 I’m learning **Data Structures and Algorithms**
+
+- 🥅 2022 Goals: **Contribute more to Open Source projects**
 
 - 📫 How to reach me **rajpatel158g@gmail.com**
 
-- ⚡ Fun fact: I love drawing and music
+- ⚡ Fun fact: I love **drawing** and **music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
