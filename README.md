@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raj Patel</h1>
-<h3 align="center">A passionate and self learner student from India. Always try to learn new things.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&width=1000&lines=Hi...%2C+I'm+Raj+Patel.;A+passionate+and+self+learner+student+from+India.+Always+try+to+learn+new+things..." alt="Typing SVG" /></a>
 <hr>
+
 <h3 align="left">👨 About Me</h3>
 - 🌱 I’m currently improving my skills on React.js, Node.js
 
