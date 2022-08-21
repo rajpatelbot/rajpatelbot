@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&width=1000&lines=Hi...%2C+I'm+Raj+Patel.;A+passionate+and+self+learner+student+from+India.+Always+try+to+learn+new+things..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=-apple-system&size=30&pause=1000&width=1000&lines=Hello+world!!%2C+I'm+Raj+Patel" alt="Typing SVG" /></a>
+
 <hr>
 
 <h3 align="left">👨 About Me</h3>
