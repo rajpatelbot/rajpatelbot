@@ -1,4 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=-apple-system&size=30&pause=1000&width=550&height=60&lines=+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Raj+Patel" alt="Typing SVG" /></a>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <hr>
 
@@ -31,3 +32,5 @@
 <a href="https://fb.com/rajkpatel007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajkpatel007" height="30" width="40" /></a>
 <a href="https://instagram.com/mr__raj_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__raj_17" height="30" width="40" /></a>
 </p>
+
+| <a href="https://github.com/rajpatel17-bot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpatel17-bot/&layout=compact&theme=buefy&hide_border=true" /></a> |
