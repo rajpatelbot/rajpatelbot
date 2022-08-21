@@ -33,4 +33,4 @@
 <a href="https://instagram.com/mr__raj_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__raj_17" height="30" width="40" /></a>
 </p>
 
-| <a href="https://github.com/rajpatel17-bot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpatel17-bot/&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/rajpatel17-bot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpatel17-bot&layout=compact&theme=buefy&hide_border=true" /></a> |
