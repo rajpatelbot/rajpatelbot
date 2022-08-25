@@ -8,8 +8,6 @@
 
 - 👨‍💻 I’m learning **Data Structures and Algorithms**
 
-- 🥅 2022 Goals: **Contribute more to Open Source projects**
-
 - 📫 How to reach me **rajpatel158g@gmail.com**
 
 - ⚡ Fun fact: I love **drawing** and **music**
