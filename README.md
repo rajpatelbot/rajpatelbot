@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **rajpatel158g@gmail.com**
 
+- 👨‍💻 Looking for my first **opensource project**
+
 - ⚡ Fun fact: I love **drawing** and **music**
 <hr>
 <h3 align="left"> 💻 Languages and Technologies</h3>
