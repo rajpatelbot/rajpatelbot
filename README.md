@@ -3,6 +3,8 @@
 
 <hr>
 
+![](https://komarev.com/ghpvc/?username=rajpatel17-bot&color=blue) 
+
 <h3 align="left">👨 About Me</h3>
 
 - 🌱 I’m currently improving my skills on React.js, Node.js
