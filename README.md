@@ -49,12 +49,13 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rajpatel17-bot&show_icons=true&theme=codeSTACKr&border_color=A8A8A8" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpatel17-bot&theme=codeSTACKr&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=A8A8A8&hide_border=false" />
     </a>
   </div>
+  <br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=rajpatel17-bot&theme=react-dark&bg_color=0D1117&hide_border=false" width="100%"/>
 </p>
