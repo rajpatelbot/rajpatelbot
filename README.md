@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajpatel158g@gmail.com**
 
-- 👨‍💻 Looking for my first **opensource project**
+- 👨‍💻 Love to contribute an **opensource project**
 
 - ⚡ Fun fact: I love **drawing** and **music**
 
