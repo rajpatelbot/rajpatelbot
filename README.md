@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### I enjoy coding👨‍💻, development💻, open source contribution🌏 and problem solving🚀
-🔭 I’m currently working on niyon capital website <br>🤝 I love to contribute in open source projects<br>👨‍💻 All of my projects are available at https://raj-portfolio.pages.dev/<br>💬 Ask me about react, javaScript, web development, open source<br>📫 How to reach me rajpatel158g@gmail.com<br>⚡ Fun fact I love music & drawing
+🔭 I’m currently working on niyon capital website <br>🤝 I love to contribute in open source projects<br>👨‍💻 All of my projects are available at https://rajpatelbot.tech/<br>💬 Ask me about react, javaScript, web development, open source<br>📫 How to reach me rajpatel158g@gmail.com<br>⚡ Fun fact I love music & drawing
 
 
 ## 🌐 Socials:
